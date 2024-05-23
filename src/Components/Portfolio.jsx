@@ -31,29 +31,24 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Car clinic -A Website for online car service Booking 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Car Clinic is an online car service booking platform where users can book car service chat with mechanic and also review the mechanic. Using this platform users can select the mechanic and schedule their bookings which makes car service easier ",
+    url: "https://car-service-zeta.vercel.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Majestic Bakery-An Ecommerce application",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Developed and designed a fully functional E-Commerce website. This integrated solution empowers vendors to efficiently manage their products, inventory, and orders while ensuring a seamless shopping experience for customers.",
+    url: "https://majesticbakery-in.onrender.com/",
   },
   {
-    title: "My Resume Site",
+    title: " Weather Application    ",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
-  },
+      "Created Weather Application using OpenWeatherMap API and GeoDB API with places autocomplete",
+    url: "https://github.com/Neethusanal/WeatherApp",
+  }
+ 
 ];
 
 const Portfolio = () => {

@@ -47,6 +47,12 @@ const projectList = [
     description:
       "Created Weather Application using OpenWeatherMap API and GeoDB API with places autocomplete",
     url: "https://github.com/Neethusanal/WeatherApp",
+  },
+  {
+    title: " OLX clone   ",
+    description:
+      "Created Clone of OLX",
+    url: "https://github.com/Neethusanal/olx-clone",
   }
  
 ];

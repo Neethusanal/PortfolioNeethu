@@ -31,12 +31,12 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web development",
-  "Backend Development",
-  "Frontend Development",
-  " ",
-  " ",
-  " ",
+  
+"React    ",
+  "Node Js",
+  " MongoDB"
+
+
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am a self taught ,passionate developer  eager to learn and explore new technologies to enhance digital landscape";
+  " A dedicated software developer with a strong passion for exploring and mastering new technologies ";
 
 const About = () => {
   return (
